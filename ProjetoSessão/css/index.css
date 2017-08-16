@@ -1,0 +1,19 @@
+i {
+  display: inline;
+}
+
+ul {
+  list-style-type: georgian;
+}
+
+header {
+  border: 2px dotted yellow;
+}
+
+main {
+  border: 2px dotted black;
+}
+
+footer {
+  border: 2px dotted blue;
+}
